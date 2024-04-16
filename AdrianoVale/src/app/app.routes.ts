@@ -4,8 +4,8 @@ import { HeaderComponent } from './layout/header/header.component';
 
 export const routes: Routes = [
         {
-        path: 'header',
-        component: HeaderComponent
+        path: 'home',
+        component: HomeComponent
     }
 ];
 

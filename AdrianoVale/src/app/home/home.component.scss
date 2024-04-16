@@ -1,0 +1,23 @@
+
+
+body{
+    text-align: center;
+    margin: auto;
+}
+
+.cards{
+    display: flex;
+    width: auto;
+    align-items: center;
+
+    .card{ 
+        border-radius: 10px;
+        padding: 15px;
+        background-color: rgb(59, 136, 59);
+        margin: auto;
+
+        img{
+            max-width: 300px;
+        }
+    }
+}

@@ -1,0 +1,12 @@
+/* Seu CSS existente */
+
+.footContent {
+    color: rgb(198, 255, 198);
+    text-align: center;
+    background-color: rgb(80, 131, 80);
+    padding: 10px;
+    position: fixed; /* Alterado de 'bottom' para 'fixed' */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
